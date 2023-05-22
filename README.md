@@ -1,4 +1,4 @@
-### JAVA Full Stack Project (Corporate Recruitment Management)
+## JAVA Full Stack Project (Corporate Recruitment Management)
 ![Business System Description](https://github.com/Karthikeya-Konathala/SpringBoot-Project/assets/100104826/4d7aeeae-2f03-4ed0-94c4-2f316d09d498)
 ![image](https://github.com/Karthikeya-Konathala/SpringBoot-Project/assets/100104826/9693675b-94cf-4533-aba3-198003f257c0)
 ![image](https://github.com/Karthikeya-Konathala/SpringBoot-Project/assets/100104826/6f6d1cf2-43ac-4522-a6ba-c31f33e03195)

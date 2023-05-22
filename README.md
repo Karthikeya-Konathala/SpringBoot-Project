@@ -1,1 +1,6 @@
-# SpringBoot-Project
+# JAVA Full Stack Project (Corporate Recruitment Management)
+![Business System Description](https://github.com/Karthikeya-Konathala/SpringBoot-Project/assets/100104826/4d7aeeae-2f03-4ed0-94c4-2f316d09d498)
+![image](https://github.com/Karthikeya-Konathala/SpringBoot-Project/assets/100104826/9693675b-94cf-4533-aba3-198003f257c0)
+![image](https://github.com/Karthikeya-Konathala/SpringBoot-Project/assets/100104826/6f6d1cf2-43ac-4522-a6ba-c31f33e03195)
+![image](https://github.com/Karthikeya-Konathala/SpringBoot-Project/assets/100104826/73649be1-6b6f-4319-bc4b-f61bb45d9a99)
+![image](https://github.com/Karthikeya-Konathala/SpringBoot-Project/assets/100104826/deb9b82d-535b-436e-815e-bf4b0f8226b4)
